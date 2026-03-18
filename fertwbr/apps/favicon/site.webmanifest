@@ -1,6 +1,6 @@
 {
   "name": "apps.fertwbr",
-  "short_name": "apps.fertwbr",
+  "short_name": "apps",
   "icons": [
     {
       "src": "/web-app-manifest-192x192.png",
