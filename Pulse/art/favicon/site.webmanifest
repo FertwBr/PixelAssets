@@ -1,6 +1,6 @@
 {
-  "name": "Pixel Pulse",
-  "short_name": "Pulse",
+  "name": "apps.fertwbr.pixelpulse",
+  "short_name": "Compass",
   "icons": [
     {
       "src": "/web-app-manifest-192x192.png",
